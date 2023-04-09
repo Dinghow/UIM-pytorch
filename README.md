@@ -26,9 +26,7 @@ Please contact Brian Price ([bprice@adobe.com](mailto:bprice@adobe.com)) request
 Since the dataset is a processed combination of Composition-1K and AIM-500, you can generate it by:
 
 - Acquire Composition-1K as metioned above
-- Refer to  [AIM](https://github.com/JizhiziLi/AIM) and download AIM-500
 - Select SO and ST images from license-free websites, and composit them with SO and ST from Composition-1K to generate NSO and NST images (You need a manual selection to confirm the composited image are natural with multi-objects)
-- Select images from AIM (the list can be found in `dataset`), and combined with the processed samples
 
 Finally, the folder structure should be:
 
