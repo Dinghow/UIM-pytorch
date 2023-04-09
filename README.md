@@ -1,6 +1,6 @@
-# Unified Interactive Image Matting
+# Exploring the Interactive Guidance for Unified and Effective Image Matting
 
-This repo is the official PyTorch implementation of **Unified Interactive Image Matting**. Since this work is still under review, we only provide the test code and related models, and the full code will be released after camera ready.
+This repo is the official PyTorch implementation of **Exploring the Interactive Guidance for Unified and Effective Image Matting**. Since this work is still under review, we only provide the test code and related models, and the full code will be released later.
 
 ##  1. Requirements
 
