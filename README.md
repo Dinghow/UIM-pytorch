@@ -84,4 +84,4 @@ sh seg_matting_tool/test.sh 4classes uim_bbox
 
 ## 5. License
 
-This project is under the MIT license, only for research usage.
+This project is under the MIT license.
